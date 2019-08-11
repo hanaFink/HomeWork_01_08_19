@@ -1,0 +1,7 @@
+C:\Users\kemro\source\repos\HomeWork_01_08_19\HomeWork_01_08_19\obj\Debug\HomeWork_01_08_19.csprojAssemblyReference.cache
+C:\Users\kemro\source\repos\HomeWork_01_08_19\HomeWork_01_08_19\obj\Debug\HomeWork_01_08_19.csproj.CoreCompileInputs.cache
+C:\Users\kemro\source\repos\HomeWork_01_08_19\HomeWork_01_08_19\bin\Debug\HomeWork_01_08_19.exe.config
+C:\Users\kemro\source\repos\HomeWork_01_08_19\HomeWork_01_08_19\bin\Debug\HomeWork_01_08_19.exe
+C:\Users\kemro\source\repos\HomeWork_01_08_19\HomeWork_01_08_19\bin\Debug\HomeWork_01_08_19.pdb
+C:\Users\kemro\source\repos\HomeWork_01_08_19\HomeWork_01_08_19\obj\Debug\HomeWork_01_08_19.exe
+C:\Users\kemro\source\repos\HomeWork_01_08_19\HomeWork_01_08_19\obj\Debug\HomeWork_01_08_19.pdb
